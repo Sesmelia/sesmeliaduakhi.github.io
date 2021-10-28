@@ -1,0 +1,28 @@
+body{
+    background-color: #D1E8E4;
+    background-size: cover;
+    letter-spacing: 1px;
+    padding: 20px;
+    margin: 0px 20px;
+}
+.title{
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: auto;
+}
+h2{
+    color: #091353;
+    font-size: 30px;
+    border-bottom: 2px solid#222;
+    padding-bottom: 20px;
+}
+h3{
+    color: #C36A2D;
+    font-size: 35px;
+    text-align: center;
+}
+h4{
+    font-family: sans-serif;
+}
